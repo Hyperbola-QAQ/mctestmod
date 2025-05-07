@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: fucku
+Specification-Vendor: ??, what can i say
+Specification-Version: 1
+Implementation-Title: mc
+Implementation-Version: 1.0.0
+Implementation-Vendor: ??, what can i say
+Implementation-Timestamp: 2025-05-07T21:06:42+0800
+
